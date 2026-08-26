@@ -3,22 +3,21 @@
     <channel>
         <title>SnipMark</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 26 Aug 2026 14:31:20 +0800</pubDate>
+            <title>0.1.1</title>
+            <pubDate>Wed, 26 Aug 2026 15:49:42 +0800</pubDate>
             <link>https://github.com/HowLow/SnipMark</link>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# SnipMark 0.1.0
+            <description sparkle:format="markdown"><![CDATA[# SnipMark 0.1.1
 
-- 支持区域截图、跨屏截图与滚动长截图。
-- 截图后可直接使用箭头、矩形、画笔、马赛克和文字标注。
-- 支持拖动选区、八个控制点缩放与方向键微调。
-- 支持 PNG、JPEG、TIFF 保存，并可直接复制到剪贴板。
-- 新增 Sparkle 自动更新，后台检查频率可设为每天、每周或每月。
+- 新增窗口吸附截图：悬停自动高亮最前方窗口，单击即可选中。
+- 保留自由框选：拖动鼠标会自动从窗口吸附切换为区域框选。
+- 完善多显示器与窗口部分移出屏幕时的吸附坐标处理。
+- 菜单栏下拉菜单顶部显示当前版本号。
 ]]></description>
-            <enclosure url="https://github.com/HowLow/SnipMark/releases/download/v0.1.0/SnipMark-0.1.0.dmg" length="2840266" type="application/octet-stream" sparkle:edSignature="09trvM4rfzotMbH+7GA1xKuBZ85shgtcgv+1s6MANXsNewdiFSdXJxSomAj6K70I4j/RfBujUKDKijm1gmIZCQ=="/>
+            <enclosure url="https://github.com/HowLow/SnipMark/releases/download/v0.1.1/SnipMark-0.1.1.dmg" length="2851700" type="application/octet-stream" sparkle:edSignature="5jjVIsqYz8sPYe14Q40xa/lxqDs07bOf03V2tuDfZwvzq9r741wH3uE7VMewlFYoYz+4tsOLjeqQshzQGEPwBw=="/>
         </item>
     </channel>
 </rss>
