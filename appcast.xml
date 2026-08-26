@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SnipMark</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 26 Aug 2026 14:31:20 +0800</pubDate>
+            <link>https://github.com/HowLow/SnipMark</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# SnipMark 0.1.0
+
+- 支持区域截图、跨屏截图与滚动长截图。
+- 截图后可直接使用箭头、矩形、画笔、马赛克和文字标注。
+- 支持拖动选区、八个控制点缩放与方向键微调。
+- 支持 PNG、JPEG、TIFF 保存，并可直接复制到剪贴板。
+- 新增 Sparkle 自动更新，后台检查频率可设为每天、每周或每月。
+]]></description>
+            <enclosure url="https://github.com/HowLow/SnipMark/releases/download/v0.1.0/SnipMark-0.1.0.dmg" length="2840266" type="application/octet-stream" sparkle:edSignature="09trvM4rfzotMbH+7GA1xKuBZ85shgtcgv+1s6MANXsNewdiFSdXJxSomAj6K70I4j/RfBujUKDKijm1gmIZCQ=="/>
+        </item>
+    </channel>
+</rss>
